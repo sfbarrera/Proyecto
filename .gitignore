@@ -1,0 +1,62 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Node / Web ----
+node_modules/
+dist/
+build/
+.vite/
+coverage/
+*.local
+
+# ---- Android / Kotlin ----
+*.apk
+*.aab
+*.jks
+*.keystore
+.gradle/
+movil/build/
+movil/app/build/
+movil/local.properties
+.cxx/
+
+# ---- Terraform ----
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+!*.example.tfvars
+.terraform.lock.hcl
+
+# ---- Docker / datos locales ----
+.env
+.env.*
+!.env.example
+datos_locales/
+minio_datos/
+postgres_datos/
+
+# ---- Agente local ----
+agente/datos/
+agente/*.sqlite
+agente/*.sqlite3
+agente/*.db
+
+# ---- Editores y sistema ----
+.idea/
+.vscode/
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+*.swp
