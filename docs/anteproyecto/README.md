@@ -10,7 +10,4 @@ Colombiana.
 | Estudiante | TE. Barrera Molano Sergio Fernando |
 | Avala | MY. Mendez Gomez Javier Enrique, Jefe del CITAE |
 
-Coloque aqui el PDF del anteproyecto y los documentos institucionales relacionados.
-
-> Este material es de la FAC. No subir informacion clasificada ni datos reales de misiones a este
-> repositorio si es publico.
+# Este es el ante proyeto presentado por el Señor TE. Barrera Molano Sergio Fernando, el cual es la necesidad a suplir por este proyecto.
